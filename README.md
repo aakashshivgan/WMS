@@ -20,6 +20,8 @@ Proposed Project comprises of the design and development of a Warehouse Manageme
 
 ## Screenshots
 
+### User End App :
+
 - End User : End User will be using WMS to View his/her Details of the Goods in the Warehouse & All Transactions & Order Status related to their Respective Order. End Users (Customers) can only see his/her goods and transactions for a particular warehouse.
 
 <img src="Screenshots/splash.png" width="200"> <img src="Screenshots/home.png" width="200"> <img src="Screenshots/transaction.png" width="200">
@@ -27,7 +29,6 @@ Proposed Project comprises of the design and development of a Warehouse Manageme
 
 
 ## Features
-### User End App :
 - **1.** Users sign up with providing basic info like name, email,phone and Country.
 - **2.** Forgot password feature with OTP validation. 
 - **3.** Home Search bar for Orders  
@@ -37,5 +38,21 @@ Proposed Project comprises of the design and development of a Warehouse Manageme
 - **7.** My account sections 
 - **8.** Localization(French)
 
+### Manager App :
 
-- Manager  : Warehouse Manager would be able to view Status of all the Goods & Transactions taking place within his or her Respective Warehouse. Warehouse Manager would be responsible for the Validation of Goods Entry, Arrival Transshipment & Goods Exit. He can view and print daily. Monthly and yearly report. He must sign every Arrival notices, Exit notices and Transshipment notices together with the client after warehouse staff must have printed them. 
+- Manager  : Warehouse Manager would be able to view Status of all the Goods & Transactions taking place within his or her Respective Warehouse. Warehouse Manager would be responsible for the Validation of Goods Entry, Arrival Transshipment & Goods Exit. He can view and print daily. Monthly and yearly report. He must sign every Arrival notices, Exit notices and Transshipment notices together with the client after warehouse staff must have printed them.
+
+<img src="Screenshots/manager/home.png" width="200"> <img src="Screenshots/manager/approval.png" width="200"> <img src="Screenshots/manager/create.png" width="200">
+<img src="Screenshots/manager/orderDetails.png" width="200"> <img src="Screenshots/manager/counter.png" width="200"> <img src="Screenshots/manager/profile.png" width="200">
+
+## Features
+- **1.** Users sign up with providing basic info like name, email,phone and Country.
+- **2.** Home with order approval screen 
+- **3.** Home with create orders finacial report and in-out orders report for daily monthly and yearly
+- **4.** Notifications Screen and Indicator  
+- **5.** Order details with Order Track History , order Items , order cart , Arrival , Transhipment and Exit Notices downloads button
+- **6.** Transaction status card
+- **7.** My account sections 
+- **8.** Localization(French)
+
+
