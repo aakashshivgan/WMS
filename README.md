@@ -1,5 +1,5 @@
 # WMS
-Warehouse Management System 
+Warehouse Management System (Evelyn)
 
 ## About
 Proposed Project comprises of the design and development of a Warehouse Management System (WMS)- [Android & iOS] called Evelyne. There will be Five Actors involved in this project Users (Customers, Warehouses Manager, WMS Controller) and Admin.
